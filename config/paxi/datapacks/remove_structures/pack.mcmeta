@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Remove annoying structures.",
+    "pack_format": 15,
+    "supported_formats": [15]
+  }
+}

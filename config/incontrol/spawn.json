@@ -1,0 +1,50 @@
+[
+  {
+    "mob": "mekanismadditions:baby_creeper",
+    "result": "deny"
+  },
+  {
+    "mob": "mekanismadditions:baby_enderman",
+    "result": "deny"
+  },
+  {
+    "mob": "mekanismadditions:baby_skeleton",
+    "result": "deny"
+  },
+  {
+    "mob": "mekanismadditions:baby_stray",
+    "result": "deny"
+  },
+  {
+    "mob": "mekanismadditions:baby_wither_skeleton",
+    "result": "deny"
+  },
+  {
+    "mob": "scguns:cog_knight",
+    "result": "deny"
+  },
+  {
+    "mob": "scguns:cog_minion",
+    "result": "deny"
+  },
+  {
+    "mob": "scguns:dissident",
+    "result": "deny"
+  },
+  {
+    "mob": "scguns:hive",
+    "result": "deny"
+  },
+  {
+    "mob": "scguns:sky_carrier",
+    "result": "deny"
+  },
+  {
+    "mob": "scguns:swarm",
+    "result": "deny"
+  },
+  {
+    "mob": "scguns:supply_scamp",
+    "result": "deny"
+  }
+]

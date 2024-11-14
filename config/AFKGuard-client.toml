@@ -1,0 +1,21 @@
+
+["Config for AFK Guard"]
+	#Config Version - For troubleshooting purposes. Ignore.
+	"Config Version" = 10
+	#By default, have the mod be disabled on MC startup.
+	"Default Disabled" = true
+	#Activate AFKGuard automatically when in Creative Mode
+	"Creative AFKGuard" = false
+	#Use AFKGuard's custom AFK Timer
+	"Use AFK Timer" = true
+	#How many seconds before AFKGuard activates.
+	"Seconds before AFK" = 300
+	#How much damage to take before disconnecting.
+	"Damage to take amount" = 1
+	#Use custom damage? If set to false will NOT use Damage to take amount
+	"Use custom damage" = false
+	#When the Creeper hissing sound is detected while AFK, disconnect.
+	"Disconnect on creeper sound" = false
+	#Stop AFKGuard from putting text in the chat.
+	"Disable Text Notifications" = false
+

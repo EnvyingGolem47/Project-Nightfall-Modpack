@@ -1,0 +1,31 @@
+[
+	{
+		"phase": "night",
+		"mob": "mca:female_zombie_villager",
+		"persecond": 0.05,
+		"attempts": 20,
+		"amount": {
+		  "minimum": 0,
+		  "maximum": 1,
+		  "groupdistance": 3
+		},
+		"conditions": {
+		  "dimension": "minecraft:overworld"
+		}
+	},
+	
+	{
+		"phase": "night",
+		"mob": "mca:male_zombie_villager",
+		"persecond": 0.05,
+		"attempts": 20,
+		"amount": {
+		  "minimum": 0,
+		  "maximum": 1,
+		  "groupdistance": 3
+		},
+		"conditions": {
+		  "dimension": "minecraft:overworld"
+		}
+	}
+]
