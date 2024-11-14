@@ -2,7 +2,7 @@
 ###### Contains no actual mods as they all belong to their original creators.
 
 ## The Mod List:
-- AFK Guard [1\.7] by EnvyingGolem47
+- [AFK Guard](https://www.envyinggolem47.com/mods/afkguard-fml-version) [1\.7] by EnvyingGolem47
 - [AI\-Improvements](https://www.curseforge.com/projects/233019) [0\.5\.2
 ] by BuiltBrokenModding
 - [AchievementOptimizer](https://www.curseforge.com/projects/912788) [1\.0\.5] by Big\_Energy
