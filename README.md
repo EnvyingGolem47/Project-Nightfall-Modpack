@@ -57,6 +57,7 @@
 - [Controlling](https://www.curseforge.com/projects/250398) [12\.0\.2
 ] by Jaredlll08
 - [Copper & Tuff Backport](https://www.curseforge.com/projects/950738) [1\.2] by Xanthian
+- [CoroUtil](https://www.curseforge.com/projects/237749) [1\.20\.1\-1\.3\.7] by Corosus
 - [CosmeticArmorReworked](https://www.curseforge.com/projects/237307) [1\.20\.1\-v1a] by zlainsama
 - [Create](https://www.curseforge.com/projects/328085) [0\.5\.1\.j
 ] by simibubi
@@ -90,7 +91,7 @@
 - [Draconic Evolution](https://www.curseforge.com/projects/223565) [3\.1\.2\.598] by brandon3055
 - [Ducky Peripherals](https://www.curseforge.com/projects/832658) [1\.20\.1\-1\.3\.1] by samsthenerd
 - [Durability Tooltip](https://www.curseforge.com/projects/511040) [1\.1\.5] by SuperMartijn642
-- [Easy NPC](https://www.curseforge.com/projects/559312) [5\.7\.6
+- [Easy NPC](https://www.curseforge.com/projects/559312) [5\.8\.1
 ] by Markus Bordihn
 - [Easy Shulker Boxes](https://www.curseforge.com/projects/594006) [8\.0\.2] by Fuzs
 - [Easy Villagers](https://www.curseforge.com/projects/400514) [1\.20\.1\-1\.1\.23] by Max Henkel
@@ -311,6 +312,7 @@
 - [Utilitarian](https://www.curseforge.com/projects/929559) [1\.20\.1\-0\.9\.1] by LobsterJonn
 - [Valhelsia Core](https://www.curseforge.com/projects/416935) [1\.1\.2]
 - [Waystones](https://www.curseforge.com/projects/245755) [14\.1\.6] by BlayTheNinth
+- [What Are They Up To](https://www.curseforge.com/projects/945479) [1\.20\.1\-1\.1\.3] by Corosus
 - [Wildfire's Female Gender Mod](https://www.curseforge.com/projects/481655) [1\.20\.1\-3\.0\.1] by WildfireRomeo
 - [YUNG's API](https://www.curseforge.com/projects/421850) [1\.20\-Forge\-4\.0\.6] by YUNGNICKYOUNG
 - [YUNG's Better Desert Temples](https://www.curseforge.com/projects/631016) [1\.20\-Forge\-3\.0\.3] by YUNGNICKYOUNG, Tera
