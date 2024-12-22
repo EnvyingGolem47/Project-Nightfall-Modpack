@@ -3,7 +3,7 @@
 	#Increasing this value will change the area-of-effect from the mod
 	#Default value: 6
 	#Range: 1 ~ 1000
-	Tree-Meal-Radius = 1
+	Tree-Meal-Radius = 2
 	#Changing this value will change the chance if a Bone Meal effect gets applied or not
 	#Default value: 15
 	#Range: 1 ~ 100
