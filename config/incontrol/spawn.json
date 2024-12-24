@@ -46,5 +46,30 @@
   {
     "mob": "scguns:supply_scamp",
     "result": "deny"
+  },
+  {
+    "mob": "forbidden_arcanus:lost_soul",
+    "mincount": 20,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:soulsand_valley_enderman",
+    "mincount": 35,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:wither_skeleton",
+    "mincount": 25,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:blaze",
+    "mincount": 30,
+    "result": "deny"
+  },
+  {
+    "mob": "quark:foxhound",
+    "mincount": 20,
+    "result": "deny"
   }
 ]
