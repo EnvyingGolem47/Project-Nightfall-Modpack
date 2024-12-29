@@ -64,11 +64,16 @@
   },
   {
     "mob": "minecraft:blaze",
-    "mincount": 30,
+    "mincount": 35,
     "result": "deny"
   },
   {
     "mob": "quark:foxhound",
+    "mincount": 20,
+    "result": "deny"
+  },
+  {
+    "mob": "eidolon:slimy_slug",
     "mincount": 20,
     "result": "deny"
   }

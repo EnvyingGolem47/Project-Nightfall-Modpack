@@ -546,7 +546,7 @@
 	"Safer Creatures" = true
 	"Shulker Packing" = false
 	"Simple Harvest" = false
-	"Slabs To Blocks" = true
+	"Slabs To Blocks" = false
 	"Slimes To Magma Cubes" = true
 	"Snow Golem Player Heads" = true
 	"Utility Recipes" = false
