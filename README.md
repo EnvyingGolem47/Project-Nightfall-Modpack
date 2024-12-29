@@ -11,7 +11,6 @@
 - [Alternate Current](https://www.curseforge.com/projects/548115) [1\.7\.0] by Space Walker
 - [AmbientSounds](https://www.curseforge.com/projects/254284) [6\.1\.4] by CreativeMD
 - [Amendments](https://www.curseforge.com/projects/896746) [1\.20\-1\.2\.12] by MehVahdJukaar
-- [AntiXray](https://www.curseforge.com/projects/560511) [1\.4\.6] by Drex
 - [Apotheosis](https://www.curseforge.com/projects/313970) [7\.4\.3] by Shadows\_of\_Fire
 - [Apothic Attributes](https://www.curseforge.com/projects/898963) [1\.3\.7] by Shadows\_of\_Fire
 - [AppleSkin](https://www.curseforge.com/projects/248787) [2\.5\.1\+mc1\.20\.1
@@ -43,7 +42,6 @@
 - [Chalk](https://www.curseforge.com/projects/533748) [1\.6\.5
 ] by mortuusars
 - [Chipped](https://www.curseforge.com/projects/456956) [3\.0\.7] by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
-- [Chunky](https://www.curseforge.com/projects/485681) [1\.3\.146] by pop4959
 - [Citadel](https://www.curseforge.com/projects/331936) [2\.6\.1] by Alexthe666
 - [Cloth Config v10 API](https://www.curseforge.com/projects/348521) [11\.1\.136] by shedaniel
 - [Clumps](https://www.curseforge.com/projects/256717) [12\.0\.0\.4
@@ -51,7 +49,6 @@
 - [CodeChicken Lib](https://www.curseforge.com/projects/242818) [4\.4\.0\.516] by ChickenBones, covers1624
 - [Collective](https://www.curseforge.com/projects/342584) [7\.87] by Rick South
 - [Configured](https://www.curseforge.com/projects/457570) [2\.2\.3] by MrCrayfish
-- [Configured Defaults \[Forge & Fabric\]](https://www.curseforge.com/projects/930131) [4830121]
 - [Connectivity Mod](https://www.curseforge.com/projects/470193) [1\.20\.1\-6\.1
 ] by Someaddons
 - [Controlling](https://www.curseforge.com/projects/250398) [12\.0\.2
@@ -178,12 +175,12 @@
 ] by lcy0x1 and LightLand team
 - [LaserIO](https://www.curseforge.com/projects/626839) [1\.6\.8
 ] by Direwolf20
+- [LibX](https://www.curseforge.com/projects/412525) [1\.20\.1\-5\.0\.14] by ModdingX
 - [Lighty](https://www.curseforge.com/projects/986380) [2\.1\.2\+1\.20\.1] by andi\_makes, agnor99
 - [Little Contraptions](https://www.curseforge.com/projects/594563) [1\.20\.1\.2] by EDToaster
 - [Little Logistics](https://www.curseforge.com/projects/570050) [1\.20\.1\.2] by Murad Akhundov and EDToaster
 - [Load My Chunks](https://www.curseforge.com/projects/1024152) [1\.0\.6\-hf2] by Drathonix
 - [Load My F\*\*\*ing Tags](https://www.curseforge.com/projects/656346) [1\.0\.4\+1\.20\.1] by Blodhgarm
-- [Logprot](https://www.curseforge.com/projects/358304) [1\.4]
 - [LootJS](https://www.curseforge.com/projects/570630) [1\.20\.1\-2\.12\.0] by AlmostReliable
 - [Lootr](https://www.curseforge.com/projects/361276) [0\.7\.35\.90] by Noobanidus
 - [Lunar](https://www.curseforge.com/projects/602312) [0\.2\.0
@@ -260,7 +257,6 @@
 ] by Buuz135
 - [Ranged Wireless Redstone](https://www.curseforge.com/projects/530779) [1\.20\-4\.0\.0] by Danny
 - [ReForgedPlay Mod](https://www.curseforge.com/projects/1018692) [0\.3\.1] by CrushedPixel, johni0702, Ferri\_Arnus
-- [Recruits Mod](https://www.curseforge.com/projects/523860) [1\.12\.3] by talhanation
 - [Refined Storage](https://www.curseforge.com/projects/243076) [1\.12\.4] by Refined Mods
 - [Refined Storage Addons](https://www.curseforge.com/projects/272302) [0\.10\.0] by Refined Mods
 - [Relics](https://www.curseforge.com/projects/445274) [0\.8\.0\.7] by SSKirillSS
@@ -270,6 +266,7 @@
 - [Rhino](https://www.curseforge.com/projects/416294) [2001\.2\.3\-build\.6] by latvian\.dev, Mozilla
 - [Right Click Harvest](https://www.curseforge.com/projects/452834) [3\.2\.3\+1\.20\.1\-forge
 ] by Jamalam & Various Contributors
+- [RSInfinityBooster](https://www.curseforge.com/projects/446870) [1\.20\.1\-1\.0\+41]
 - [Saturn](https://www.curseforge.com/projects/670986) [0\.1\.3] by AbdElAziz
 - [Scorched Guns](https://www.curseforge.com/projects/802940) [0\.3\.4\.1] by ribs
 - [Searchables](https://www.curseforge.com/projects/858542) [1\.0\.3
@@ -288,8 +285,6 @@
 - [Simply Swords](https://www.curseforge.com/projects/659887) [1\.56\.0\-1\.20\.1] by Sweenus
 - [SmartBrainLib](https://www.curseforge.com/projects/661293) [1\.15] by Tslat
 - [Smarter Farmers](https://www.curseforge.com/projects/491290) [1\.20\-2\.1\.0] by MehVahdJukaar
-- [Smoothchunk mod](https://www.curseforge.com/projects/582327) [1\.20\.1\-3\.8
-] by Someaddons
 - [Sneaky Tree Growing] (https://www.curseforge.com/minecraft/mc-mods/sneaky-tree-growing-forge) [1\.20\.x\-1\.10\.0] by Qubik Studios
 - [Sophisticated Backpacks](https://www.curseforge.com/projects/422301) [3\.20\.17\.1150] by P3pp3rF1y, Ridanisaurus
 - [Sophisticated Core](https://www.curseforge.com/projects/618298) [1\.0\.1\.809] by P3pp3rF1y
@@ -313,6 +308,7 @@
 - [Traveler's Backpack](https://www.curseforge.com/projects/321117) [9\.1\.16] by Tiviacz1337
 - [Upcycle](https://www.curseforge.com/projects/567281) [1\.1\.0] by XxRexRaptorxX \(RexRaptor\)
 - [Utilitarian](https://www.curseforge.com/projects/929559) [1\.20\.1\-0\.9\.1] by LobsterJonn
+- [UtilitiX](https://www.curseforge.com/projects/463703) [1\.20\.1\-0\.8\.23] by MelanX, noeppi\_noeppi
 - [Valhelsia Core](https://www.curseforge.com/projects/416935) [1\.1\.2]
 - [Waystones](https://www.curseforge.com/projects/245755) [14\.1\.6] by BlayTheNinth
 - [What Are They Up To](https://www.curseforge.com/projects/945479) [1\.20\.1\-1\.1\.3] by Corosus
@@ -325,14 +321,10 @@
 ] by Vazkii, quat, IThundxr, siuol, wiresegal, MehVahdJukaar
 - [aleki's Nifty Ships](https://www.curseforge.com/projects/1068445) [1\.0\.13
 ] by alekiponi
-- [betterchunkloading mod](https://www.curseforge.com/projects/899487) [1\.20\.1\-5\.2
-] by Someaddon
 - [chisels\-and\-bits](https://www.curseforge.com/projects/231095) [1\.4\.148] by OrionDevelopment
 - [chunksending mod](https://www.curseforge.com/projects/831663) [1\.20\.1\-2\.8
 ] by Someaddon
 - [clientcrafting mod](https://www.curseforge.com/projects/888790) [1\.20\.1\-1\.8
-] by Someaddon
-- [fastasyncworldsave mod](https://www.curseforge.com/projects/951499) [1\.20\.1\-2\.1
 ] by Someaddon
 - mcef\-libraries
 - [spark](https://www.curseforge.com/projects/361579) [1\.10\.53] by Luck
