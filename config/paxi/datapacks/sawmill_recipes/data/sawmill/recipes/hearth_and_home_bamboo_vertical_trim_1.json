@@ -1,0 +1,10 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:bamboo_planks"
+  },
+  "ingredient_count": 1,
+  "result": "hearth_and_home:bamboo_vertical_trim",
+  "count": 1,
+  "type": "sawmill:woodcutting"
+}

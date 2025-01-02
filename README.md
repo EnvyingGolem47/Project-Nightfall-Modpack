@@ -33,6 +33,7 @@
 ] by Vazkii, wiiv, williewillus, dylan4ever, Hubry, Alwinfy, artemisSystem, Falkory220
 - [Botarium](https://www.curseforge.com/projects/704113) [2\.3\.4] by CodexAdrian
 - [Brandon's Core](https://www.curseforge.com/projects/231382) [3\.2\.1\.302] by brandon3055
+- [Building Gadgets 2](https://www.curseforge.com/projects/298187) [1\.0\.7] by Direwolf20
 - [CC: Tweaked](https://www.curseforge.com/projects/282001) [1\.113\.1] by Daniel Ratcliffe, Aaron Mills, SquidDev
 - [CC:C Bridge](https://www.curseforge.com/projects/656214) [1\.6\.3\-forge] by Sammy L\. Koch & Luke A\. Hanssen
 - [Caelus API](https://www.curseforge.com/projects/308989) [3\.2\.0\+1\.20\.1] by C4
@@ -268,6 +269,7 @@
 ] by Jamalam & Various Contributors
 - [RSInfinityBooster](https://www.curseforge.com/projects/446870) [1\.20\.1\-1\.0\+41]
 - [Saturn](https://www.curseforge.com/projects/670986) [0\.1\.3] by AbdElAziz
+- [Sawmill](https://www.curseforge.com/minecraft/mc-mods/sawmill) [1\.20\-1\.4\.4] by MehVahdJukaar
 - [Scorched Guns](https://www.curseforge.com/projects/802940) [0\.3\.4\.1] by ribs
 - [Searchables](https://www.curseforge.com/projects/858542) [1\.0\.3
 ] by Jaredlll08

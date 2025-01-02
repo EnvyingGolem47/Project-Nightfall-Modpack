@@ -1,0 +1,10 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_planks"
+  },
+  "ingredient_count": 1,
+  "result": "forbidden_arcanus:edelwood_stairs",
+  "count": 1,
+  "type": "sawmill:woodcutting"
+}

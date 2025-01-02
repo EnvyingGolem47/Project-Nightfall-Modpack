@@ -8,7 +8,7 @@
   "moddedZombieVillagerWhitelist": [],
   "babyZombieChance": 0.15,
   "villagerTagsHacks": true,
-  "enableInfection": false,
+  "enableInfection": true,
   "allowGrimReaper": true,
   "villagerChatPrefix": "",
   "canHurtBabies": true,
@@ -163,13 +163,15 @@
     "#minecraft:trapdoors",
     "#minecraft:walls",
 	"#minecraft:crops",
+	"#iceandfire:frozen_blocks",
 	"minecraft:water",
 	"minecraft:birch_leaves",
 	"minecraft:oak_leaves",
 	"minecraft:spruce_leaves",
 	"minecraft:jungle_leaves",
 	"minecraft:farmland",
-	"farmersdelight:rich_soil_farmland"
+	"farmersdelight:rich_soil_farmland",
+	"iceandfire:dragon_ice_spikes"
   ],
   "structuresInRumors": [
     "minecraft:igloo",

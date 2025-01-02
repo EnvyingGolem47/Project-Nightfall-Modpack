@@ -1,0 +1,10 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "forbidden_arcanus:aurum_planks"
+  },
+  "ingredient_count": 1,
+  "result": "forbidden_arcanus:aurum_slab",
+  "count": 2,
+  "type": "sawmill:woodcutting"
+}

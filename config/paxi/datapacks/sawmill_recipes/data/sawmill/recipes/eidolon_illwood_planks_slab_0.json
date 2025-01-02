@@ -1,0 +1,15 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "eidolon:illwood_log"
+    },
+    {
+      "item": "eidolon:stripped_illwood_log"
+    }
+  ],
+  "ingredient_count": 1,
+  "result": "eidolon:illwood_planks_slab",
+  "count": 8,
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,10 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:acacia_planks"
+  },
+  "ingredient_count": 1,
+  "result": "hearth_and_home:acacia_vertical_trim",
+  "count": 1,
+  "type": "sawmill:woodcutting"
+}

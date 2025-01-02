@@ -1,0 +1,10 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:acacia_planks"
+  },
+  "ingredient_count": 1,
+  "result": "handcrafted:acacia_pillar_trim",
+  "count": 1,
+  "type": "sawmill:woodcutting"
+}

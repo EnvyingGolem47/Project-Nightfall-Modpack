@@ -1,0 +1,10 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "eidolon:illwood_planks"
+  },
+  "ingredient_count": 1,
+  "result": "eidolon:illwood_planks_stairs",
+  "count": 1,
+  "type": "sawmill:woodcutting"
+}

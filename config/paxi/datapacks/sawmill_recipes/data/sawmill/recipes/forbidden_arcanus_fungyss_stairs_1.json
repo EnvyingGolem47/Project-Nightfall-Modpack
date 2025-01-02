@@ -1,0 +1,10 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "forbidden_arcanus:fungyss_planks"
+  },
+  "ingredient_count": 1,
+  "result": "forbidden_arcanus:fungyss_stairs",
+  "count": 1,
+  "type": "sawmill:woodcutting"
+}
