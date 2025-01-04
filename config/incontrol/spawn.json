@@ -76,5 +76,15 @@
     "mob": "eidolon:slimy_slug",
     "mincount": 20,
     "result": "deny"
+  },
+  {
+	  "mob":"mca:female_zombie_villager",
+	  "light":"gt(0)",
+	  "result": "deny"
+  },
+  {
+	  "mob":"mca:male_zombie_villager",
+	  "light":"gt(0)",
+	  "result": "deny"
   }
 ]
