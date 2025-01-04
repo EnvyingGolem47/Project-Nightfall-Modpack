@@ -18,6 +18,7 @@
 - [Architectury](https://www.curseforge.com/projects/419699) [9\.2\.14] by shedaniel
 - [Artifacts](https://www.curseforge.com/projects/312353) [9\.5\.13] by ochotonida
 - [Athena](https://www.curseforge.com/projects/841890) [3\.1\.2] by ThatGravyBoat
+- [Attributizer](https://www.curseforge.com/projects/838573) [2\.1] by Jackiecrazy
 - [Axel's Clocks and Chimes](https://modrinth.com/mod/sPFifIwp) [1\.1\.3] by Chuckchuk
 - [Axes Are Weapons](https://www.curseforge.com/projects/456457) [1\.7\.3] by Fourmisain
 - [Bad Packets](https://www.curseforge.com/projects/615134) [0\.4\.3] by deirn
@@ -39,6 +40,8 @@
 - [Caelus API](https://www.curseforge.com/projects/308989) [3\.2\.0\+1\.20\.1] by C4
 - [Canary](https://www.curseforge.com/projects/665658) [0\.3\.3] by AbdElAziz
 - [CapeJS](https://www.curseforge.com/projects/911145) [1\.0\.0\-1\.20\.1] by static
+- [Cataclysm Mod](https://www.curseforge.com/projects/551586) [2\.31] by L\_Ender
+- [Cataclysm Apotheosis addon](https://www.curseforge.com/projects/1009804) [1\.9\.10] by Karaagedesu, MCreator
 - [Catalogue](https://www.curseforge.com/projects/459701) [1\.8\.0] by MrCrayfish
 - [Chalk](https://www.curseforge.com/projects/533748) [1\.6\.5
 ] by mortuusars
@@ -87,6 +90,7 @@
 - [Doggy Talents Next](https://www.curseforge.com/projects/694492) [1\.18\.38
 ] by dashiedev, mashxp
 - [Draconic Evolution](https://www.curseforge.com/projects/223565) [3\.1\.2\.598] by brandon3055
+- [Dragonseeker](https://www.curseforge.com/projects/490653) [1\.2\.0\-1\.20\.1] by Syric
 - [Ducky Peripherals](https://www.curseforge.com/projects/832658) [1\.20\.1\-1\.3\.1] by samsthenerd
 - [Durability Tooltip](https://www.curseforge.com/projects/511040) [1\.1\.5] by SuperMartijn642
 - [Easy NPC](https://www.curseforge.com/projects/559312) [5\.9\.0
@@ -144,6 +148,7 @@
 - [Ice and Fire: Spellbooks](https://www.curseforge.com/projects/977855) [2\.3\.1\-1\.20\.1
 ] by Ace The Eldritch King
 - [IceAndFire Patcher](https://www.curseforge.com/projects/1066111) [0\.2] by IAFEnvoy
+- [ImmediatelyFast](https://www.curseforge.com/projects/686911) [1\.3\.3\+1\.20\.4] by RK\_01
 - [Immersive Armors](https://www.curseforge.com/projects/580681) [1\.6\.1\+1\.20\.1] by Luke100000
 - [Immersive Engineering](https://www.curseforge.com/projects/231951) [1\.20\.1\-10\.1\.0\-171] by BluSunrize and Damien A\.W\. Hazard
 - [Immersive Paintings](https://www.curseforge.com/projects/639584) [0\.6\.7\+1\.20\.1] by Luke100000
@@ -178,6 +183,7 @@
 ] by Direwolf20
 - [LibX](https://www.curseforge.com/projects/412525) [1\.20\.1\-5\.0\.14] by ModdingX
 - [Lighty](https://www.curseforge.com/projects/986380) [2\.1\.2\+1\.20\.1] by andi\_makes, agnor99
+- [LionfishAPI](https://www.curseforge.com/projects/1001614) [2\.4\-Fix]
 - [Little Contraptions](https://www.curseforge.com/projects/594563) [1\.20\.1\.2] by EDToaster
 - [Little Logistics](https://www.curseforge.com/projects/570050) [1\.20\.1\.2] by Murad Akhundov and EDToaster
 - [Load My Chunks](https://www.curseforge.com/projects/1024152) [1\.0\.6\-hf2] by Drathonix
@@ -257,6 +263,7 @@
 - [RSRequestify](https://www.curseforge.com/projects/307788) [2\.3\.3
 ] by Buuz135
 - [Ranged Wireless Redstone](https://www.curseforge.com/projects/530779) [1\.20\-4\.0\.0] by Danny
+- [Redden's Stone Lanterns](https://www.curseforge.com/projects/965820) [1\.0\.3] by ReddenFish, MCreator
 - [ReForgedPlay Mod](https://www.curseforge.com/projects/1018692) [0\.3\.1] by CrushedPixel, johni0702, Ferri\_Arnus
 - [Refined Storage](https://www.curseforge.com/projects/243076) [1\.12\.4] by Refined Mods
 - [Refined Storage Addons](https://www.curseforge.com/projects/272302) [0\.10\.0] by Refined Mods
