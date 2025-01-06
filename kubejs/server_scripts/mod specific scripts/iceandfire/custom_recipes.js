@@ -11,4 +11,16 @@ ServerEvents.recipes(event => { //listen for the "recipes" server event.
 		'#ice_and_fire_spellbooks:dragon_steel'                            // arg 4: the upgrade item
 	)
 	
+	event.remove({ id: 'iceandfire:jar_empty' })
+	
+	event.shaped('iceandfire:pixie_jar_empty', [
+		'GPG',
+		'G G',
+		'GGG'
+		], {
+			G: '#forge:glass_panes',
+			P: '#minecraft:planks'
+		}
+	)
+	
 })
