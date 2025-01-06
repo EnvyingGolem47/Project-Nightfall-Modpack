@@ -33,7 +33,7 @@
   "babyItemGrowUpTime": 24000,
   "villagerMaxAgeTime": 192000,
   "villagerMaxHealth": 20,
-  "allowVillagerTeleporting": true,
+  "allowVillagerTeleporting": false,
   "villagerMinTeleportationDistance": 64.0,
   "childInitialHearts": 100,
   "greetHeartsThreshold": 75,

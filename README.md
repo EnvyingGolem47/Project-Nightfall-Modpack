@@ -246,10 +246,6 @@
 ] by Vazkii
 - [Paxi](https://www.curseforge.com/projects/515708) [1\.20\-Forge\-4\.0] by YUNGNICKYOUNG
 - [Pehkui](https://www.curseforge.com/projects/319596) [3\.8\.2\+1\.20\.1\-forge] by Virtuoel
-- [Petrol's Parts](https://modrinth.com/mod/AN0CZD9P) [1\.0\.3
-] by petrolpark
-- [Petrolpark's Library](https://modrinth.com/mod/ik2WZkTZ) [1\.0\.6
-] by petrolpark
 - [Pipe Connector](https://www.curseforge.com/projects/846168) [0\.3\.9] by Heaser
 - [Pipez](https://www.curseforge.com/projects/443900) [1\.20\.1\-1\.2\.16] by Max Henkel
 - [Placebo](https://www.curseforge.com/projects/283644) [8\.6\.2] by Shadows\_of\_Fire
