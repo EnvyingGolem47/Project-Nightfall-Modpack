@@ -9,6 +9,8 @@
 - [AchievementOptimizer](https://www.curseforge.com/projects/912788) [1\.0\.5] by Big\_Energy
 - [Additional Structures](https://www.curseforge.com/projects/297680) [4\.2\.2] by XxRexRaptorxX \(RexRaptor\)
 - [Advanced Peripherals](https://www.curseforge.com/projects/431725) [0\.7\.41r] by Srendi
+- [aleki's Nifty Ships](https://www.curseforge.com/projects/1068445) [1\.0\.14
+] by alekiponi
 - [AlmostUnified](https://www.curseforge.com/projects/633823) [1\.20\.1\-0\.9\.4] by Almost Reliable
 - [Alternate Current](https://www.curseforge.com/projects/548115) [1\.7\.0] by Space Walker
 - [AmbientSounds](https://www.curseforge.com/projects/254284) [6\.1\.4] by CreativeMD
@@ -51,7 +53,12 @@
 - [Chalk](https://www.curseforge.com/projects/533748) [1\.6\.5
 ] by mortuusars
 - [Chipped](https://www.curseforge.com/projects/456956) [3\.0\.7] by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
+- [chisels\-and\-bits](https://www.curseforge.com/projects/231095) [1\.4\.148] by OrionDevelopment
+- [chunksending mod](https://www.curseforge.com/projects/831663) [1\.20\.1\-2\.8
+] by Someaddon
 - [Citadel](https://www.curseforge.com/projects/331936) [2\.6\.1] by Alexthe666
+- [clientcrafting mod](https://www.curseforge.com/projects/888790) [1\.20\.1\-1\.8
+] by Someaddon
 - [Cloth Config v10 API](https://www.curseforge.com/projects/348521) [11\.1\.136] by shedaniel
 - [Clumps](https://www.curseforge.com/projects/256717) [12\.0\.0\.4
 ] by Jaredlll08
@@ -165,7 +172,6 @@
 - [Immersive Paintings](https://www.curseforge.com/projects/639584) [0\.6\.7\+1\.20\.1] by Luke100000
 - [InControl](https://www.curseforge.com/projects/257356) [1\.20\-9\.2\.11
 ] by McJty
-- [Simple Inventory Sorter] (https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) [23\.0\.8] by cpw
 - [Incendium](https://www.curseforge.com/projects/591388) [5\.3\.5] by Stardust Labs
 - [Infinity Buttons](https://www.curseforge.com/projects/661902) [1\.20\.1\-4\.0\.4
 ] by LarsMans
@@ -204,7 +210,6 @@
 - [Lootr](https://www.curseforge.com/projects/361276) [0\.7\.35\.90] by Noobanidus
 - [Lunar](https://www.curseforge.com/projects/602312) [0\.2\.0
 ] by Mrbysco
-- [MCEF \(Minecraft Chromium Embedded Framework\)](https://www.curseforge.com/projects/636236) [2\.1\.6\-1\.20\.1] by ds58
 - [Macaw's Doors](https://www.curseforge.com/projects/378646) [1\.1\.1] by Sketch Macaw & Sketch Peachy
 - [Macaw's Fences and Walls](https://www.curseforge.com/projects/453925) [1\.1\.2] by Sketch Macaw & Peachy Macaw
 - [Macaw's Furniture](https://www.curseforge.com/projects/359540) [3\.3\.0] by Sketch Macaw
@@ -224,7 +229,7 @@
 - [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) [1\.1\.5] by FX \- PR0CESS
 - [Memory Usage Screen](https://www.curseforge.com/projects/500009) [1\.9\.0] by MORIMORI0317
 - [Minecraft Comes Alive](https://www.curseforge.com/projects/535291) [7\.5\.21\+1\.20\.1] by Luke100000, S0llace, CDAGaming, ffrannny, jahx\_senpoopie, WildBamaBoy, SheWolfDeadly
-- [Mod Lassos] (https://www.curseforge.com/minecraft/mc-mods/mob-lassos) [8\.0\.1] by Fuzs
+- [Mob Lassos](https://www.curseforge.com/minecraft/mc-mods/mob-lassos) [8\.0\.1] by Fuzs
 - [ModernFix](https://www.curseforge.com/projects/790626) [5\.20\.0\+mc1\.20\.1] by embeddedt
 - [Modonomicon](https://www.curseforge.com/projects/538392) [1\.77\.5] by Kli Kli
 - [Modular Golems](https://www.curseforge.com/projects/690937) [2\.4\.47
@@ -296,16 +301,18 @@
 ] by SilentChaos512
 - [Silent Lib](https://www.curseforge.com/projects/242998) [8\.0\.0
 ] by SilentChaos512
+- [Simple Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) [23\.0\.8] by cpw
 - [Simple Planes](https://www.curseforge.com/projects/388908) [1\.20\.1\-5\.3\.3
 ] by adoxentor, Przemyk
 - [Simple Voice Chat](https://www.curseforge.com/projects/416089) [1\.20\.1\-2\.5\.27] by Max Henkel
 - [Simply Swords](https://www.curseforge.com/projects/659887) [1\.56\.0\-1\.20\.1] by Sweenus
 - [SmartBrainLib](https://www.curseforge.com/projects/661293) [1\.15] by Tslat
 - [Smarter Farmers](https://www.curseforge.com/projects/491290) [1\.20\-2\.1\.0] by MehVahdJukaar
-- [Sneaky Tree Growing] (https://www.curseforge.com/minecraft/mc-mods/sneaky-tree-growing-forge) [1\.20\.x\-1\.10\.0] by Qubik Studios
+- [Sneaky Tree Growing](https://www.curseforge.com/minecraft/mc-mods/sneaky-tree-growing-forge) [1\.20\.x\-1\.10\.0] by Qubik Studios
 - [Sophisticated Backpacks](https://www.curseforge.com/projects/422301) [3\.21\.2\.1163] by P3pp3rF1y, Ridanisaurus
 - [Sophisticated Core](https://www.curseforge.com/projects/618298) [1\.0\.8\.828] by P3pp3rF1y
 - [Sophisticated Storage](https://www.curseforge.com/projects/619320) [1\.0\.10\.1007] by P3pp3rF1y, Ridanisaurus
+- [spark](https://www.curseforge.com/projects/361579) [1\.10\.53] by Luck
 - [Spyglass Improvements](https://www.curseforge.com/projects/571264) [1\.5\+mc1\.20\+forge] by juancarloscp52\(Im\_JC\)
 - [Storage Drawers](https://www.curseforge.com/projects/223852) [12\.9\.13] by Texelsaur
 - [SuperMartijn642's Config Library](https://www.curseforge.com/projects/438332) [1\.1\.8] by SuperMartijn642
@@ -336,12 +343,3 @@
 - [YUNG's Better Jungle Temples](https://www.curseforge.com/projects/897669) [1\.20\-Forge\-2\.0\.5] by YUNGNICKYOUNG, Tera
 - [Zeta](https://www.curseforge.com/projects/968868) [1\.0\-24
 ] by Vazkii, quat, IThundxr, siuol, wiresegal, MehVahdJukaar
-- [aleki's Nifty Ships](https://www.curseforge.com/projects/1068445) [1\.0\.14
-] by alekiponi
-- [chisels\-and\-bits](https://www.curseforge.com/projects/231095) [1\.4\.148] by OrionDevelopment
-- [chunksending mod](https://www.curseforge.com/projects/831663) [1\.20\.1\-2\.8
-] by Someaddon
-- [clientcrafting mod](https://www.curseforge.com/projects/888790) [1\.20\.1\-1\.8
-] by Someaddon
-- mcef\-libraries
-- [spark](https://www.curseforge.com/projects/361579) [1\.10\.53] by Luck
