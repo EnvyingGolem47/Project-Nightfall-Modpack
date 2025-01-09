@@ -35,7 +35,7 @@
 		#True if mausoleums are allowed to generate
 		"Generate Mausoleums" = false
 		#Whether to generate graveyards or not
-		"Generate Graveyards" = false
+		"Generate Graveyards" = true
 		#True if gorgon temples are allowed to spawn
 		"Generate Gorgon Temple" = false
 
@@ -66,7 +66,7 @@
 		"Dragon Health" = 500.0
 		#Max dragon attack damage. Attack Damage is scaled to this
 		#Range: 1 ~ 10000
-		"Dragon Attack Damage" = 17
+		"Dragon Attack Damage" = 20
 		#Damage dealt from a successful fire breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
 		"Dragon Attack Damage(Fire breath)" = 2.0

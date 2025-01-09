@@ -12,7 +12,7 @@
 	bloodMoonWeight = 60
 	#Weight of the Crimson Moon Event [Default: 20]
 	#Range: 0 ~ 100
-	crimsonMoonWeight = 5
+	crimsonMoonWeight = 10
 	#Weight of the Miner Moon Event [Default: 40]
 	#Range: 0 ~ 100
 	minerMoonWeight = 40
@@ -24,7 +24,7 @@
 	tinyMoonWeight = 0
 	#Weight of the Big Moon Event [Default: 10]
 	#Range: 0 ~ 100
-	bigMoonWeight = 0
+	bigMoonWeight = 2
 	#Weight of the Big Moon Event [Default: 5]
 	#Range: 0 ~ 100
 	badOmenMoonWeight = 0
@@ -33,10 +33,10 @@
 	heroMoonWeight = 0
 	#Weight of the Eclipse Moon Event [Default: 2]
 	#Range: 0 ~ 100
-	eclipseMoonWeight = 2
+	eclipseMoonWeight = 0
 
 #Crimson Replacement settings
 [Crimson]
 	#List of entities to replace during the Crimson Moon Event [Example: "minecraft:zombie,minecraft:zombified_piglin"]
-	crimsonReplacements = ["minecraft:zombie,minecraft:zombified_piglin", "minecraft:husk,minecraft:zombified_piglin", "minecraft:drowned,minecraft:zombified_piglin", "minecraft:skeleton,minecraft:wither_skeleton", "minecraft:slime,minecraft:magma_cube", "minecraft:spider,minecraft:zoglin"]
+	crimsonReplacements = ["minecraft:zombie,minecraft:zombified_piglin", "minecraft:husk,minecraft:zombified_piglin", "minecraft:drowned,minecraft:zombified_piglin", "minecraft:skeleton,minecraft:wither_skeleton", "minecraft:slime,minecraft:magma_cube", "minecraft:spider,minecraft:zoglin","minecraft:creeper,quark:foxhound","eidolon:zombie_brute,scguns:hornlin","minecraft:enderman,endermanoverhaul:crimson_forest_enderman"]
 
