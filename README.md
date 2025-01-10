@@ -47,7 +47,7 @@
 - [Caelus API](https://www.curseforge.com/projects/308989) [3\.2\.0\+1\.20\.1] by C4
 - [Canary](https://www.curseforge.com/projects/665658) [0\.3\.3] by AbdElAziz
 - [CapeJS](https://www.curseforge.com/projects/911145) [1\.0\.0\-1\.20\.1] by static
-- [Cataclysm Mod](https://www.curseforge.com/projects/551586) [2\.33] by L\_Ender
+- [Cataclysm Mod](https://www.curseforge.com/projects/551586) [2\.35] by L\_Ender
 - [Cataclysm Apotheosis addon](https://www.curseforge.com/projects/1009804) [1\.9\.10] by Karaagedesu, MCreator
 - [Catalogue](https://www.curseforge.com/projects/459701) [1\.8\.0] by MrCrayfish
 - [Chalk](https://www.curseforge.com/projects/533748) [1\.6\.5
