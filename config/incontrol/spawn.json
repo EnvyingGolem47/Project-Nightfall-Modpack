@@ -1,58 +1,5 @@
 [
   {
-    "mob": "mekanismadditions:baby_creeper",
-    "result": "deny"
-  },
-  {
-    "mob": "mekanismadditions:baby_enderman",
-    "result": "deny"
-  },
-  {
-    "mob": "mekanismadditions:baby_skeleton",
-    "result": "deny"
-  },
-  {
-    "mob": "mekanismadditions:baby_stray",
-    "result": "deny"
-  },
-  {
-    "mob": "mekanismadditions:baby_wither_skeleton",
-    "result": "deny"
-  },
-  {
-    "mob": "scguns:cog_knight",
-    "result": "deny"
-  },
-  {
-    "mob": "scguns:cog_minion",
-    "result": "deny"
-  },
-  {
-    "mob": "scguns:dissident",
-    "result": "deny"
-  },
-  {
-    "mob": "scguns:hive",
-    "result": "deny"
-  },
-  {
-    "mob": "scguns:sky_carrier",
-    "result": "deny"
-  },
-  {
-    "mob": "scguns:swarm",
-    "result": "deny"
-  },
-  {
-    "mob": "scguns:supply_scamp",
-    "result": "deny"
-  },
-  {
-    "mob": "forbidden_arcanus:lost_soul",
-    "mincount": 20,
-    "result": "deny"
-  },
-  {
     "mob": "endermanoverhaul:soulsand_valley_enderman",
     "mincount": 35,
     "result": "deny"
@@ -66,25 +13,5 @@
     "mob": "minecraft:blaze",
     "mincount": 35,
     "result": "deny"
-  },
-  {
-    "mob": "quark:foxhound",
-    "mincount": 20,
-    "result": "deny"
-  },
-  {
-    "mob": "eidolon:slimy_slug",
-    "mincount": 20,
-    "result": "deny"
-  },
-  {
-	  "mob":"mca:female_zombie_villager",
-	  "light":"gt(0)",
-	  "result": "deny"
-  },
-  {
-	  "mob":"mca:male_zombie_villager",
-	  "light":"gt(0)",
-	  "result": "deny"
   }
 ]
