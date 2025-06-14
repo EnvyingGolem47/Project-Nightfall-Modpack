@@ -1,4 +1,3 @@
-
 #Entity Settings
 [entity]
 
@@ -27,8 +26,8 @@
 			remove_look_random = true
 			#Set this to true to apply this setting to all mobs on the filter list. Set this to false to NOT apply this to mobs on the filter list.
 			is_allowlist = true
-			#The list of mobs that is affected by this setting according to is_allowlist 
-			filter_list = ["eidolon:slimy_slug"]
+			#The list of mobs that is affected by this setting according to is_allowlist
+			filter_list = []
 
 		#Replace Look Controller
 		[entity.mob.replace_look_controller]
@@ -120,4 +119,3 @@
 		remove_stroll = true
 		#Remove the sheep's eat block AI task. This causes sheep to no longer eat grass, and thus be unable to regenerate their wool.
 		remove_eat_block = false
-
