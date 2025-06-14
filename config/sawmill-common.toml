@@ -1,4 +1,3 @@
-
 [general]
 	#Sort recipes following cretive tab order. Could cause issue in the case when, for whatever reason, creative other would differ from server to client.Additionally Neoforge has a bug where this stuff won't work on servers. Use Forge instead!
 	sort_recipes = true
@@ -11,7 +10,7 @@
 	#Allows crafting non wood variant items (crafting table for example)
 	allow_non_variant = false
 	#List of Mod ids you want to completely exclude from sawmill recipes. All recipes from these mods will be ignored. Use to remove mods with many recipes as sawmill can display at most 255 at onceFor more fine control use the sawmill:blacklist item tag
-	mods_blacklist = ["framedblocks","storagedrawers"]
+	mods_blacklist = ["framedblocks", "storagedrawers"]
 	#Makes so planks recipes can only craft items with 1 input plank. Disable to allow more recipes
 	limit_planks_input_to_one = true
 	#Makes Sawmill GUI slightly wider
@@ -20,16 +19,17 @@
 	#Allowed Values: OFF, ON, AUTOMATIC, DYNAMIC
 	search_bar_mode = "AUTOMATIC"
 	#At how many recipes the search bar should appear
-	#Range: 0 ~ 200
+	# Default: 32
+	# Range: 0 ~ 200
 	search_bar_threshold = 32
 	#Maximum discount that sawmill will given when converting recipes. Unit is percentage of input item
-	#Range: 0.0 ~ 1.0
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
 	max_discount = 0.35
-	#Ignore all custom ingredient types when scanning recipes.Turn this on if some recipes are missing.
-	ignore_custom_ingredients = false
+	#Enables and disables compat structures for Repurposed Structures mod
+	repurposed_structures_compat = false
 
 	#This is a map of wood object type to its cost in planks. Its used to add some discount to some special blocks.Change this if say you want all fences to cost 1 plank. Not all keys will work here bt you can try modded ones if you hae Every Compat
 	[general.special_recipe_costs]
 		stairs = 1.0
 		boat = 4.0
-
